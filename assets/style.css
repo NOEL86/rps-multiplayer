@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://secure.i.telegraph.co.uk/multimedia/archive/03015/RockPaperScissors_3015010b.jpg');
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.container {
+    background-color: rgb(158, 73, 158);
+}
+
+ul.noBullet {
+    list-style-type: none !important;
+    text-align: left;
+}
+
+.card {
+    text-align: center;
+    color: darkred;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+#textBox {
+    text-align: center;
+    justify-content: center;
+  
+}
